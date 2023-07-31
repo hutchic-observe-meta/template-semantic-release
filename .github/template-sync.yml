@@ -13,4 +13,6 @@ files:
 - '!.github/dependabot.yml'
 - '!.github/template-sync.yml'
 - '!.github/workflows/pre-commit-update.yml'
+- '!.github/workflows/release.yml'
 - '!.github/settings.yml'
+- '!.releaserc'
