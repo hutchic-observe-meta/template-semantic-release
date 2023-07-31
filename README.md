@@ -7,3 +7,4 @@
     - pre-commit
     - valid pr titles
     - sync
+- edit releaserc and correct the repository name
